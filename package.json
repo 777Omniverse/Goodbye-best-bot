@@ -39,8 +39,7 @@
 		"cheerio": "",
 		"chem-eb": "^0.1.11",
 		"child_process": "^1.0.2",
-		"fast-speedtest-api": "^0.3.2",
-		"fb-tools": "^1.0.10",
+		"fast-speedtest-api": "^0.3.2"
 		"fca-unofficial": "",
 		"figlet": "",
 		"fs-extra": "^10.0.0",
